@@ -1,0 +1,1 @@
+These are the files for producing the mac version of the app. The png files and keras file are the same so not included in this directory. Also setup the directory structure like the main project. These are just the python files
